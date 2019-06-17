@@ -1,2 +1,2 @@
 # weatherApp
-Simple weather app that show temp(F) and weather form API
+Simple weather app that show tempprature(F) and weather form an API
